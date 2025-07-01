@@ -7,8 +7,8 @@
 ### 📝 Objective
 Map a local network and enumerate services and OS versions using NMAP and other CLI tools.
 
-### 📄 Documentation
-[📎 View PDF Report](./PROJECT\_1\_Network\_auditing\_NMAP.pdf)
+### 📄 Documentation : morganburera-it-labs/project-1-nmap-audit / PROJECT 1... (this is not a link)
+
 
 ### 🎯 Key Skills
 - Network scanning and host discovery
