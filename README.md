@@ -14,3 +14,13 @@ Each project includes:
 - Bonus experiments with DNS failures, scripting, automation, and packet analysis
 
 🚀 My goal: Become a highly competent System & Network Administrator, ready to solve real-world incidents with clarity and precision.
+
+Project 1 : https://youtu.be/-jx9C8sezVY
+Project 2 : https://youtu.be/XpY0JDUqqZI
+Project 3 : https://youtu.be/YlMlvxDIRiI
+Project 4 : Rebuilding...
+Project 5 : https://youtu.be/MHMeTE6mpz0
+Project 6 : https://youtu.be/kSSl6DuNohs
+Project 7 : https://youtu.be/8YRIG__Khgc
+
+
