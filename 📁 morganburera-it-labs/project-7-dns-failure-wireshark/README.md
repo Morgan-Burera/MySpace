@@ -10,3 +10,6 @@ Simulated a DNS resolution failure and captured the impact on network traffic us
 - Observed failed queries and missing responses
 - Restored DNS to `8.8.8.8` and confirmed recovery
 
+## 🎥 Video Recording
+
+https://youtu.be/8YRIG__Khgc
