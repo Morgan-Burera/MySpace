@@ -9,3 +9,7 @@ Tested network **bandwidth and latency** under normal and degraded conditions us
 - Measured throughput in Mbps with iperf3
 - Simulated latency and packet loss (200ms, 5%)
 - Analyzed TCP retransmissions and handshake behavior
+
+## 🎥 Video Recording :
+
+     - https://youtu.be/XpY0JDUqqZI
