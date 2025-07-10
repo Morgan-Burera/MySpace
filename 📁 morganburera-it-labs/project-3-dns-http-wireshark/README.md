@@ -9,3 +9,7 @@ Captured and analyzed real DNS queries and HTTP traffic to understand normal web
 - Captured DNS resolution for `google.com`
 - Using tshark command line for audit
 - Observed TCP 3-way handshake and status codes
+
+## 🎥 Video Recording
+
+https://youtu.be/YlMlvxDIRiI
