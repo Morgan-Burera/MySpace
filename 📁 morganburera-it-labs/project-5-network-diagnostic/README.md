@@ -9,3 +9,8 @@ Performed a complete network troubleshooting sequence from IP verification to HT
 - Validated local connectivity (ICMP ping)
 - Tested DNS and HTTP resolution
 - Benchmarked DNS response speed (Google, Cloudflare, invalid)
+
+## 🎥 Video Recording
+
+https://youtu.be/MHMeTE6mpz0
+
