@@ -9,3 +9,7 @@ Built a Bash script to automate essential network diagnostics and troubleshoot i
 - Scripted interface check, gateway ping, DNS and HTTP tests
 - Resolved interface failure on `enp0s3` using Netplan
 - Captured diagnostics with Wireshark
+
+## 🎥 Video Recording
+
+https://youtu.be/kSSl6DuNohs
