@@ -11,3 +11,7 @@ Map a local network and enumerate services and OS versions using NMAP and other 
 - Network scanning and host discovery
 - CLI troubleshooting
 - Security awareness through service exposure
+
+### 🎥 Video Recording :
+https://youtu.be/-jx9C8sezVY
+
