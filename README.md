@@ -17,13 +17,16 @@ Each project includes:
 
 🚀 My goal: Become a highly competent System & Network Administrator, ready to solve real-world incidents with clarity and precision.
 📁 **Projects Showcase**: Network administration / Auditing focus
-1. [Project 1 – Network Audit with NMAP](https://youtu.be/-jx9C8sezVY)
-2. [Project 2 – Network Audit Iperf3](https://youtu.be/XpY0JDUqqZI)
-3. [Project 3 – PREOJECT3 DNSS HTTP Analysis](https://youtu.be/YlMlvxDIRiI)
-4. [Project 4 – Judged optionnal, not included and currently in rebuilding stage.]
-5. [Project 5 – Full Network Diagnosis + DNS Analysis](https://youtu.be/MHMeTE6mpz0)
-6. [Project 6 – Persistent VM Networking + Netplan Fix](https://youtu.be/kSSl6DuNohs)
-7. [Project 7 – DNS Monitoring Wireshark](https://youtu.be/8YRIG__Khgc)
+1. [Project 1 – Network Audit with NMAP](https://youtu.be/-jx9C8sezVY)]
+2. [Project 2 – Network Audit Iperf3](https://youtu.be/XpY0JDUqqZI)]
+3. [Project 3 – PREOJECT3 DNSS HTTP Analysis](https://youtu.be/YlMlvxDIRiI)]
+4. [Project 4 – DHCP FLOOD Attack (only screenshots)]
+5. [Project 5 – Full Network Diagnosis + DNS Analysis](https://youtu.be/MHMeTE6mpz0)]
+6. [Project 6 – Persistent VM Networking + Netplan Fix](https://youtu.be/kSSl6DuNohs)]
+7. [Project 7 – DNS Monitoring Wireshark](https://youtu.be/8YRIG__Khgc)]
+
+⚠️⚠️⚠️ The Video recording links not being properly displayed in the projects files;
+Please use this README page or the ones from the projects folders to see the videos.
 
 
 
