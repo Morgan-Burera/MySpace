@@ -16,6 +16,6 @@ d'environnement d'entreprise en utilisant les principes RBAC (**Role-Based Acces
 - Réinitialisation de mot-de-passe et blocage de comptes malicieux.
 - Protection des dossiers sensibles grace à un filtrage par rôles (stagiaires).
 
-⚠️ Ps (Le fichier 'User Management2' ne pouvant être visualisé sur Github; Voici son lien : file:///Myspace/morganburera-it-labs/Downloads/IT%20PROJECT%20User%20Management2.pdf)
-
+⚠️ Ps (Le fichier des captures d'écrans ne pouvant être visualisé sur Github;
+ Voici son lien drive : https://drive.google.com/file/d/15-zl9z0n2RBG9T0etXwgZ7JrA6APOpEt/view?usp=drive_link
 
